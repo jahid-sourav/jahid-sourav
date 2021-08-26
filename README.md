@@ -1,5 +1,5 @@
 <a href="https://github.com/jahid-sourav" style="display:flex; justify-content:center;">
-<img width="100%" height="auto" src="images/01.svg"></a>
+<img width="60%" height="auto" src="images/01.svg"></a>
 <h1 align="center" style="margin-top:8px;">Hi there, I'm Jahid - aka  <a href="https://www.linkedin.com/in/webdemon/">WebDemon</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">I'm a passionate MERN Stack  Developer from Bangladesh.</h3>
