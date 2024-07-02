@@ -31,7 +31,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-sourav&layout=compact&theme=github_dark">
   <br/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-sourav&theme=dark" alt="GitHub Stats">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=jahid-sourav&amp;show_icons=true&theme=gotham" alt="GitHub Stats">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jahid-sourav&amp;show_icons=true&theme=gotham" alt="GitHub Stats">
 </div>
 
 <br/>
