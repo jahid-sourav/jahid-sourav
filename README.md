@@ -28,10 +28,10 @@
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
 <br/>
 <div>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-sourav&layout=compact&theme=github_dark">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-sourav&layout=compact&theme=github_dark">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-sourav&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahid-sourav&amp;show_icons=true&theme=gotham" alt="GitHub Stats">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-sourav&theme=dark" alt="GitHub Stats">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jahid-sourav&amp;show_icons=true&theme=gotham" alt="GitHub Stats">
 </div>
 
 <br/>
