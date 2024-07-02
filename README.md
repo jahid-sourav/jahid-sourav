@@ -1,4 +1,40 @@
-## Hi there 👋
+<div id="header" align="center">
+    <img src="https://i.ibb.co/ZfvsVYh/Main-Git-Hub.png" alt="Banner Image">
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/devjahidulislam">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a> 
+</div>
+
+<h1 align="center">👋Hi, I'm Jahidul Islam!</h1>
+
+<div>
+<h4 align="left">A passionate Front-End Web Developer from Bangladesh</h4>
+<p>
+  I'm a Front-End Web Developer, based in Dhaka, Bangladesh. I did my diploma in Computer Engineering. Currently, I'm pursuing my bachelor's degree in computer science. I'm expert in HTML/HTML5, CSS/CSS3, SASS(SCSS), Bootstrap, Tailwind CSS, Javascript, Typescript, React JS, Next JS and more.
+</p>  
+</div>
+
+<h2 align="left">⚒️Technologies • Tools⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,typescript,react,nextjs,jest,firebase" />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,photoshop,xd,figma,vite" /><br>
+</div>
+
+<h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
+<br/>
+<div>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-sourav&layout=compact&theme=github_dark">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-sourav&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid-sourav&amp;show_icons=true&theme=gotham" alt="GitHub Stats">
+</div>
+
+<br/>
 
 <!--
 **jahid-sourav/jahid-sourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
