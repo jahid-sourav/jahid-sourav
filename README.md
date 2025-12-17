@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/devjahidulislam">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQEbLBBU-7-ORQ/profile-displaybackgroundimage-shrink_350_1400/B56ZsXEOz3GkAY-/0/1765618547184?e=1767830400&v=beta&t=V1s9x1b57qR25B2lTAvPxkZGeWCKt04Lpl9qF6G645o">
   </a> 
 </div>
 
