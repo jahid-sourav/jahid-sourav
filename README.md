@@ -1,7 +1,3 @@
-<div id="header" align="center">
-    <img src="https://i.ibb.co/ZfvsVYh/Main-Git-Hub.png" alt="Banner Image">
-</div>
-
 <div>
   <a href="https://www.linkedin.com/in/devjahidulislam">
     <img src="https://media.licdn.com/dms/image/v2/D5616AQEbLBBU-7-ORQ/profile-displaybackgroundimage-shrink_350_1400/B56ZsXEOz3GkAY-/0/1765618547184?e=1767830400&v=beta&t=V1s9x1b57qR25B2lTAvPxkZGeWCKt04Lpl9qF6G645o">
